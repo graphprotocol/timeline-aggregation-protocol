@@ -1,3 +1,7 @@
+DEPRECATED: Use https://github.com/graphprotocol/graph-tally
+
+---
+
 # Timeline Aggregation Protocol (TAP)
 
 | Crate                  | Version Badge                                                                                                      |
